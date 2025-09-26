@@ -4,6 +4,7 @@ Nota: no meu computador, tem algum erro que não mantém o pdf2image. Precisa fa
 
 python3 -m venv venv 
 
+aa
 source venv/bin/activate 
 
 pip3 install pdf2image
